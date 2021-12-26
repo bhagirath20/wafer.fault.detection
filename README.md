@@ -2,7 +2,7 @@
  => OBJECTIVE OF THE PROJECT
  + This project builds a classifiction methodology to predict the quality of wafer sensors based on the gicen training data. It helps in identifying the perticular wafer that is faulty so that it can be replaced without disturbing whole production line. Based on the prediction the alarm palced by the client will notify and then the faulty wafer can be replaced by stopping that perticular section of work. 
  
- ![Alt text](https://drive.google.com/file/d/1saXueAeGcVI3j2qHMqPbVkgSMkE_G_PH/view?usp=sharing "Optional Title")
+ <img src="applicationflow.png">
 
  
  + Data Ingestion 
