@@ -1,7 +1,7 @@
 # WAFER FAULT DETECTION
  <b>=> OBJECTIVE OF THE PROJECT</b>
  + This project builds a classification methodology to predict the quality of wafer sensors based on the given training data. It helps in identifying the perticular wafer that is faulty so that it can be replaced without disturbing the whole production line. Based on the prediction the alarm placed by the client will notify and then the faulty wafer can be replaced by stopping that particular section of work. 
-  
+  <br>
  <b>=> THE KEY PHASES</b>
    + Logging Framework
    + Data Ingestion 
