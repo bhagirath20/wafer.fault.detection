@@ -8,7 +8,7 @@
    + Data Preprocessing 
    + Model Selection 
    + Model Tuning
-   + Predction
+   + Prediction
    + Deployment 
    + Model Retraning 
 
