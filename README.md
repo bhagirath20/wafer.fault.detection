@@ -46,3 +46,7 @@
       + Open any IDE<br>
       + Install the requirements.txt file pip install -r requirements.txt<br>
       + After all the requirements are installed successfully Then run the app by python app.py<br>
+
+
+contact : https://www.linkedin.com/in/hir-infinity/ 
+email : hirvamehta66@gmail.com 
