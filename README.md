@@ -48,5 +48,5 @@
       + After all the requirements are installed successfully Then run the app by python app.py<br>
 
 
-contact : https://www.linkedin.com/in/hir-infinity/ <br>
+linkedin : https://www.linkedin.com/in/hir-infinity/ <br>
 email : hirvamehta66@gmail.com 
